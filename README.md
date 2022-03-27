@@ -18,8 +18,8 @@ This is a competitive programming team from Green University of Bangladesh. CSE 
 - After all of those process if you can't understand the steps then we will arrange a google meet.
 - Whenever you upload a file you need to follow this structure
   
-  - `<last 3 digits of your student id>.<your github username>.<probelm name all in small letter with file extension>`
-  - `063.mdmarufsarker.helloworld.cpp`
+  - `<last 3 digits of your student id>.<your github username>.<probelm name using camel case format with file extension>`
+  - `063.mdmarufsarker.helloWorld.cpp`
 
 ## Our Contributors
 <a href="https://github.com/strangers-bd/strangers/graphs/contributors">
