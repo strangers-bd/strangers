@@ -16,3 +16,12 @@ This is a competitive programming team from Green University of Bangladesh. CSE 
 - If you can't solve the task then try again and again.
 - If you failed a lot of time then open the problems directory and see how other members solved this.
 - After all of those process if you can't understand the steps then we will arrange a google meet.
+- Whenever you upload a file you need to follow this structure
+  
+  - `<last 3 digits of your student id>.<your github username>.<probelm name all in small letter with file extension>`
+  - `063.mdmarufsarker.helloworld.cpp`
+
+## Our Contributors
+<a href="https://github.com/strangers-bd/strangers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=strangers-bd/strangers" />
+</a>
