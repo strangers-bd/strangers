@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int a;
+    float a;
 
-    scanf("%d", &a);
+    scanf("%f", &a);
     if(a > 0){
         printf("This is a positive number");
     }
