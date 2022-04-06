@@ -3,7 +3,7 @@ using namespace std;
 int main ()
 {
     float fahrenheit,celsius;
-    cout << "Enter your conversion value : ";
+    cout << "\nEnter your conversion value : ";
     cin >> fahrenheit;
 
     celsius = (fahrenheit-32) / 1.8;
