@@ -4,11 +4,12 @@ Write a C program to read temperature in centigrade and display a suitable messa
 
 ## Description
 
-![FlowChart](./flowchart.png)
+- Note: data type is float. Don't be confused by seeing the flowchart
+- ![FlowChart](./flowchart.png)
 
 - Input
 
-  - Input type must be double.
+  - Input type must be float.
 
 - Output
   - Temp < 0 then Freezing weather
@@ -22,6 +23,6 @@ Write a C program to read temperature in centigrade and display a suitable messa
 
 |Input|Output|
 |-----|------|
-|42|Its very hot.|
-|14|Cold weather.|
-|-10|Freezing weather.|
+|42.5|Its very hot.|
+|14.9|Cold weather.|
+|-10.7|Freezing weather.|
