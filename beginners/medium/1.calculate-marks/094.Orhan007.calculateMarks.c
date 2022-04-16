@@ -7,7 +7,7 @@ int main()
     char n[100];
     printf("Enter the name of the student: ");
     scanf("%s",n);
-    printf("Marks in phusics: ");
+    printf("Marks in phusics: ");     //Edit your input part and read out the qustion carefully.
     scanf("%f",&b);
     printf("Marks in chemistry: ");
     scanf("%f",&c);
