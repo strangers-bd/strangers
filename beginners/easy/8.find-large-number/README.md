@@ -14,5 +14,5 @@
    
 | Input  |    Output                 |
 | ------ | ------------------------- |
-|  10,20  |20 is the largest
+|  10,20  |20.00 is the largest
 |  20,20| Both are equal
