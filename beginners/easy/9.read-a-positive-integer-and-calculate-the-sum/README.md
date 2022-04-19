@@ -1,6 +1,6 @@
 # Title
 
-Write a program that Read Input Until a Positive Integer is Entered
+Write a program that Read Input Until a Positive Integer is Entered and calculate the sum of those number
 
 ## Description
 
