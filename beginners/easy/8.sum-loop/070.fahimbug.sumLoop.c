@@ -10,6 +10,6 @@ int main()
         sum = sum + i;
 
     }
-    printf("%d\n", sum);
+    printf("Total sum = %d\n", sum);
     return 0 ;
 }
