@@ -1,16 +1,15 @@
-#include<stdio.h>
-int main()
-{
+#include <stdio.h>
+int main() {
+    int n, i, sum = 0;
 
-   int i , n , sum = 0;
-   scanf("%d", &n);
+    printf("Enter a positive integer: ");
+    scanf("%d", &n);
 
-   while(i < n)
-    {
-        if(n>0){
-            sum = sum + i ;
-        }
+    for (i = 1; i <= n; ++i) {
+        sum += i;
     }
-   printf("Total sum = %d\n", sum);
-   return 0 ;
+
+    printf("Sum = %d", sum);
+    return 0;
 }
+
