@@ -11,6 +11,7 @@ Write a program which can input an integer number from the user and display the 
 - Output
 
   - This program output the immediate next odd number.
+  - if you input odd number then it gives output invalid
 
 - Test Cases
 
@@ -18,5 +19,6 @@ Write a program which can input an integer number from the user and display the 
 |-----|------|
 |10 |Your immediate next odd number is = 11|
 |20|Your immediate next odd number is = 21|
+|23|Invalid input|
 
 
