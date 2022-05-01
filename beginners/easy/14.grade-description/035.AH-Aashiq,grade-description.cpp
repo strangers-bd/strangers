@@ -23,6 +23,9 @@ int main()
     case 'F':
         cout << "Fail\n";
         break;
+    default:
+    cout << "Invalid Grade Found\n";
+	break;
     }
     return 0;
 }
