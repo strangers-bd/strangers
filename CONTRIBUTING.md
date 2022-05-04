@@ -10,8 +10,8 @@ This is a competitive programming team called strangers
 <br>
 [Fahim Mahmud](https://github.com/fahimbug)
 <br>
-[Md. Abu Sayed](https://github.com/Orhan007)
-<br>
+<!-- [Md. Abu Sayed](https://github.com/Orhan007)
+<br> -->
 [Md. Saadman Galib Rabbi](https://github.com/saadman-galib)
 <br>
 []()
