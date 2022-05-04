@@ -12,7 +12,7 @@ Write a program to check whether a character is an alphabet or not
 
 - Output
 
-  - if the input value is inside the range a-z or A-Z then orint "It is an alphabet".
+  - if the input value is inside the range a-z or A-Z then print "It is an alphabet".
   -	if the input value is not inside the range a-z or A-Z then print "It is not an alphabet".
 
 - Test Cases
