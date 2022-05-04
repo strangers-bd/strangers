@@ -2,8 +2,7 @@
 #include <iomanip>
 using namespace std;
 int main() {
-    int fahrenheit;
-    float celsius;
+    float fahrenheit,celsius;
     cin>>fahrenheit;
     celsius = (fahrenheit - 32) / 1.8;
     cout<<setprecision(2)<<fixed;
