@@ -14,6 +14,8 @@ This is a competitive programming team called strangers
 <br> -->
 [Md. Saadman Galib Rabbi](https://github.com/saadman-galib)
 <br>
+[Rishan Khan Real](https://github.com/rishankhan)
+<br>
 []()
 <br>
 
