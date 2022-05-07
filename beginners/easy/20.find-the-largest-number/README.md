@@ -24,7 +24,7 @@
 
 |   Input     |            Output             |
 |  --------   |    ----------------------     |
-| 7 14 106    | The Largest Number is = 106   |
-| 7 14 -106   | The Largest Number is = 14    |
-| 217 14 6    | The Largest Number is = 217   |
-| 21.7 4 6.9  | The Largest Number is = 21.7  |
+| 7 14 106    | The Largest Number is = 106.00   |
+| 7 14 -106   | The Largest Number is = 14.00    |
+| 217 14 6    | The Largest Number is = 217.00   |
+| 21.7 4 6.9  | The Largest Number is = 21.70  |
