@@ -27,7 +27,33 @@ This is a competitive programming team called strangers
 - [Git and Github](https://youtu.be/oe21Nlq8GS4)
 
 ## List of all online judge
-![Online Judge](./onlineJudge.png)
+<!-- ![Online Judge](./onlineJudge.png) -->
+| Name             | Catagory                          |
+| ---------------- | --------------------------------- |
+| Codeforces       | (also has SGU under acmsguru)     |
+| Atcoder          | (also has JOI problems)           |
+| DMOJ             | (IOI and ICPC problems)           |
+| Kattis           | (ICPC problems)                   |
+| Advent of Code   |                                   |
+| Timus            |                                   |
+| Project Euler    |                                   |
+| dunjudge.me      |                                   |
+| UVa Online Judge |                                   |
+| Topcoder         |                                   |
+| CodeChef         |                                   |
+| oj.uz            | (IOI and ICPC)                    |
+| acmicpc.net      | (ICPC problems like Live Archive) |
+| USACO            |                                   |
+| Leetcode         |                                   |
+| Hackerrank       |                                   |
+| e-olymp          | (olympiad)                        |
+| toph.co          |                                   |
+| acmp.ru          |                                   |
+| judtge.org       |                                   |
+| Beecrowd         | Online Judge (ICPC)               |
+| SPOJ             |                                   |
+| PEG              | (migrated to DMOJ)                |
+| CSES             |                                   |
 
 ## Our Contributors
 <a href="https://github.com/strangers-bd/strangers/graphs/contributors">
