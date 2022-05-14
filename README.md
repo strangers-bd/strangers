@@ -26,7 +26,7 @@ This is a competitive programming team called strangers
 - [Command Line Basic](https://youtube.com/playlist?list=PLCWi-JUKQh2-YQ6U_dqQix3s00tIkgeKJ)
 - [Git and Github](https://youtu.be/oe21Nlq8GS4)
 
-## List of all online judge
+## List of all online judges
 <!-- ![Online Judge](./onlineJudge.png) -->
 | Name             | Catagory                          |
 | ---------------- | --------------------------------- |
@@ -54,6 +54,23 @@ This is a competitive programming team called strangers
 | SPOJ             |                                   |
 | PEG              | (migrated to DMOJ)                |
 | CSES             |                                   |
+| Hackerearth      |                                   |
+| CSAcademy        |                                   |
+| Yukicoder        |                                   |
+| TLX              |                                   |
+| Codedrills       |                                   |
+| Poj              |                                   |
+| Openjudge        |                                   |
+| SCU              |                                   |
+| NBUT             |                                   |
+| HDU              |                                   |
+| UOJ              |                                   |
+| lightoj          |                                   |
+| codemarshal      |                                   |
+| devskill         |                                   |
+| dimikoj          |                                   |
+| school.outsbook  |                                   |
+| newtonschool     |                                   |
 
 ## Our Contributors
 <a href="https://github.com/strangers-bd/strangers/graphs/contributors">
