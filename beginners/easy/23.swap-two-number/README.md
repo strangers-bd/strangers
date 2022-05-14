@@ -13,6 +13,6 @@ You can solve this language using any programming language.
 
 |Input|Output|
 |-----|------|
-|--|--|
-|--|--|
-|--|--|
+|10 15|15 10|
+|-10 4|4 -10|
+|213 234|234 213|
