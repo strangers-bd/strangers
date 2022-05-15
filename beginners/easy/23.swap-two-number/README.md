@@ -1,6 +1,6 @@
 # Title
 
-Write a program swapping tow Numbers without using a Temporary Variable
+Write a program swapping two Numbers without using a Temporary Variable
 
 ## Description
 
