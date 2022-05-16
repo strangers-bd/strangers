@@ -7,9 +7,9 @@ Byang's friend was asked to author a programming problem where the challenge was
 
 Byang, embarrassed by what his friend did, took it upon himself to prepare a leap years problem using the correct description.
 
-    In the Gregorian calendar, certain years have 366 days instead of 365. In such years, the month of February is extended to have 29 days (instead of 28 days). These years are known as leap years.
+In the Gregorian calendar, certain years have 366 days instead of 365. In such years, the month of February is extended to have 29 days (instead of 28 days). These years are known as leap years.
 
-    Leap years are years which are multiples of four (with the exception of centennial years not divisible by 400).
+Leap years are years which are multiples of four (with the exception of centennial years not divisible by 400).
 
 - Logic
 
