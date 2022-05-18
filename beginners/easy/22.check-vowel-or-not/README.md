@@ -13,7 +13,7 @@ Write a  program to check whether an alphabet is vowel or consonant using if els
 - output
     - if the character is vowel return vowel
     - if the character is consonant return consonant
-    - If it is neither vowel nor consonant return "Wrong input"
+    - If it is neither vowel nor consonant return "Is not an alphabet"
     - follwoing test cases
 
 - Test Cases
@@ -21,5 +21,5 @@ Write a  program to check whether an alphabet is vowel or consonant using if els
 |Input|Output|
 |-----|------|
 |Enter any character: a|'a' is vowel.|
-|Enter any character: 2|"Wrong input"|
+|Enter any character: 2|"Is not an alphabet"|
 |Enter any character: f|'f' is consonant.|
