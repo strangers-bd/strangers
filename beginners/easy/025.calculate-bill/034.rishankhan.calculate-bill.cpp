@@ -33,7 +33,7 @@ else if (unit<250){
 bill = (50*0.50) + (100*0.75) + ((unit-250)*1.50);
 
 }
-
+bill = bill + (bill*0.20);
 cout<<"Rs."<<bill<<endl;
 
 return 0;
