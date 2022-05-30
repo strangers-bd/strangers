@@ -26,7 +26,7 @@ int main()
     }
 	
 	sur_charge = amount * 0.20;
-    total_amount  = amount + sur_charge;
+    	total_amount  = amount + sur_charge;
 	
 	cout << "Electricity Bill = Rs." <<fixed <<setprecision(2) << total_amount;
 	
