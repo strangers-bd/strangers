@@ -9,7 +9,11 @@ How to calculate compound interest?.Logic to calculate compound interest.
 
 - Logic
 
-  - follow the formula to calculate compound interest
+  - follow the formula to calculate compound interest.
+  - input principle amount. Store it in some variable say principle.
+  - Input time in some variable say time.
+  - Input rate in some variable say rate.
+  
 
 Where,
 P is principle amount,
