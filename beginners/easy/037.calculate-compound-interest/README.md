@@ -14,7 +14,9 @@ How to calculate compound interest?.Logic to calculate compound interest.
 Where,
 P is principle amount,
 R is the rate and
-T is the time span
+T is the time span.
+
+- Formula to calculate compound interest annually is given by.
 
 ![imgs](./img.png)
 
