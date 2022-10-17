@@ -8,4 +8,5 @@ int main(){
     t2 = 273.0;
     ef = (1 - (t2 / t1)) * 100;
     cout << "Efficiency of the Carnot's engine is " << fixed << setprecision(2) << ef << "%";
+    return 0;
 }
