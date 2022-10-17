@@ -15,4 +15,5 @@ int main(){
     }
 
     else cout << "You have entered a negative number." << endl;
+    return 0;
 }

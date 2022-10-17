@@ -18,4 +18,6 @@ int main(){
         cout << "It's Hot." << endl;
     else
         cout << "It's very hot." << endl;
+
+    return 0;
 }

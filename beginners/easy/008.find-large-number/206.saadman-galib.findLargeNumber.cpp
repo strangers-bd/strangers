@@ -14,4 +14,5 @@ int main(){
     else {
         cout << "Both are equal" << endl;
     }
+    return 0;
 }
