@@ -12,6 +12,7 @@ The ratio of age between father and son is 7:2. After n years, the ratio of age 
   - The input ratio must be in the form of n1:n2
   - The output ratio must be in the form of n1:n2
   - Always print the absoulte value of the age of father and son
+  - Age must be in integer form :D
 
 - Test Cases
 
