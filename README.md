@@ -28,49 +28,26 @@ This is a competitive programming team called strangers
 
 ## List of all online judges
 <!-- ![Online Judge](./onlineJudge.png) -->
-| Name             | Catagory                          |
-| ---------------- | --------------------------------- |
-| Codeforces       | (also has SGU under acmsguru)     |
-| Atcoder          | (also has JOI problems)           |
-| DMOJ             | (IOI and ICPC problems)           |
-| Kattis           | (ICPC problems)                   |
-| Advent of Code   |                                   |
-| Timus            |                                   |
-| Project Euler    |                                   |
-| dunjudge.me      |                                   |
-| UVa Online Judge |                                   |
-| Topcoder         |                                   |
-| CodeChef         |                                   |
-| oj.uz            | (IOI and ICPC)                    |
-| acmicpc.net      | (ICPC problems like Live Archive) |
-| USACO            |                                   |
-| Leetcode         |                                   |
-| Hackerrank       |                                   |
-| e-olymp          | (olympiad)                        |
-| toph.co          |                                   |
-| acmp.ru          |                                   |
-| judtge.org       |                                   |
-| Beecrowd         | Online Judge (ICPC)               |
-| SPOJ             |                                   |
-| PEG              | (migrated to DMOJ)                |
-| CSES             |                                   |
-| Hackerearth      |                                   |
-| CSAcademy        |                                   |
-| Yukicoder        |                                   |
-| TLX              |                                   |
-| Codedrills       |                                   |
-| Poj              |                                   |
-| Openjudge        |                                   |
-| SCU              |                                   |
-| NBUT             |                                   |
-| HDU              |                                   |
-| UOJ              |                                   |
-| lightoj          |                                   |
-| codemarshal      |                                   |
-| devskill         |                                   |
-| dimikoj          |                                   |
-| school.outsbook  |                                   |
-| newtonschool     |                                   |
+- [Codeforces](https://codeforces.com/)
+- [CodeChef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [LeetCode](https://leetcode.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [AtCoder](https://atcoder.jp/)
+- [Beecrowd Online Judge](https://www.beecrowd.com.br/)
+- [UVA Online Judge](https://onlinejudge.org/)
+- [Vjudge](https://vjudge.net/)
+- [Phitron](https://phitron.com/)
+- [TopH](https://toph.co/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [Kattis](https://open.kattis.com/)
+- [Eolymp](https://www.e-olymp.com/en/)
+- [LightOJ](https://lightoj.com/)
+- [SPOJ](https://www.spoj.com/)
+- [POJ](http://poj.org/)
+- [Timus](http://acm.timus.ru/)
+- [ZOJ](http://acm.zju.edu.cn/onlinejudge/)
 
 ## Our Contributors
 <a href="https://github.com/strangers-bd/strangers/graphs/contributors">
