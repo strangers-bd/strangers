@@ -38,7 +38,6 @@ This is a competitive programming team called strangers
 - [Beecrowd Online Judge](https://www.beecrowd.com.br/)
 - [UVA Online Judge](https://onlinejudge.org/)
 - [Vjudge](https://vjudge.net/)
-- [Phitron](https://phitron.com/)
 - [TopH](https://toph.co/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [Kattis](https://open.kattis.com/)
