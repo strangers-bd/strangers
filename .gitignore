@@ -1,4 +1,6 @@
 .DS_Store
 a.out
+a.exe
 .fleet
 .vscode
+.idea
